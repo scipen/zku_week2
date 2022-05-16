@@ -7,3 +7,15 @@ typechain
 #Hardhat files
 cache
 artifacts
+
+# build artifacts
+circuit_js
+**/hardhat.config.js
+**/package-lock.json
+**/package.json
+**/verification_key.json
+**/verifier.sol
+*.ptau
+*.zkey
+*.r1cs
+*.sym
